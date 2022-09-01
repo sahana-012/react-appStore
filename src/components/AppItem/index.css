@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.app-item-container {
+  width: 200px;
+  height: 200px;
+  background: #ffffff;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  flex-wrap: wrap;
+  /* padding: 40px; */
+}
+
+.app-item-image {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.app-item-title {
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #1e293b;
+  margin: 0;
+}

@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.tab-item-container {
+  padding-right: 4px;
+  font-style: 'Bree Serif';
+}
+
+.tab-btn {
+  font-family: 'Roboto';
+  color: #7b8794;
+  font-weight: 500;
+  font-size: 16px;
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.active-tab-btn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+}
